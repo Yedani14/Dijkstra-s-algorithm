@@ -1,1 +1,2 @@
 # Dijkstra-s-algorithm
+This project is a Python package named graphs_ymendoz8 that implements Dijkstra's shortest path algorithm, along with other graph-related algorithms. The primary goal of this is to practice packaging code into a specific format and publishing it for future contribution.
